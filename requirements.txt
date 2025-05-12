@@ -1,0 +1,11 @@
+flask
+werkzeug
+markupsafe
+click
+blinker
+jsonify
+requests
+jinja2
+itsdangerous
+gunicorn
+python-dotenv
